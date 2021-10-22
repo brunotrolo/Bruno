@@ -1,1 +1,0 @@
-NOT(REGEX(Mobile__c, "[0-9]{11}"))
